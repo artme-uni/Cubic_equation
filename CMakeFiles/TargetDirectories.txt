@@ -1,0 +1,3 @@
+/Users/twiggy/Study/Coding/Courses/Computational-math/Cubic (cpp)/CMakeFiles/rebuild_cache.dir
+/Users/twiggy/Study/Coding/Courses/Computational-math/Cubic (cpp)/CMakeFiles/edit_cache.dir
+/Users/twiggy/Study/Coding/Courses/Computational-math/Cubic (cpp)/CMakeFiles/cubic.dir
